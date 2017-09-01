@@ -1,7 +1,4 @@
 Cold and and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreaciate the lack of humidity
-change mars.txt in planets2
-updating mars.txt inside planet2
-[master 6e8088b] planet 2 change, short message
- 1 file changed, 1 insertion(+)
+changing mars.txt in planets2 and planets
